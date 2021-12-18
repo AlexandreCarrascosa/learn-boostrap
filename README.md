@@ -10,4 +10,8 @@ The main objective is create a simple landing page, using the styles from [Boots
    - When bootstrap is used the page become responsive;
     
 
+To create a color pallete I use: https://www.palettable.io/
+For (images)[assets/images] I use: https://unsplash.com/
+OpenCV logo I get in: https://opencv.org/
 
+I created some classes just for round image, change background colors e font settings.
